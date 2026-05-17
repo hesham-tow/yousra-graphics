@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Yousra Graphics',
-  description: 'Professional Portfolio',
+  description: 'Professional Portfolio Website'
 }
 
 export default function RootLayout({
